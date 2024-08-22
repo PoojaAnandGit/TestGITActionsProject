@@ -8,7 +8,7 @@ packages:
   gitUsername: PoojaAnandGit
   gitBranch: main
 services:
-- serviceName: project.testgitactions.integrations:abcd1
+- serviceName: project.testgitactions.integrations:a2
   packages:
   - name: TestGITActionsProject
     version: "1.0"
